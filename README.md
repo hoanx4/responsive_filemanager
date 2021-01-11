@@ -1,9 +1,9 @@
-# Responsive Filemanager
-Responsive FileManager 9.13.4 - 'path' Path Traversal
+# Responsive FileManager 9.13.4 - 'path' Path Traversal
 
-Exploit Title: Responsive FileManager 9.13.4 - 'path' Path Traversal
 Date: 12/12/2018 (PoC)
+
 Date: 04/01/2020 (Auto Exploit)
+
 Exploit Author: SunCSR (Sun* Cyber Security Research)
 
 Google Dork: intitle:"Responsive FileManager 9.x.x"
